@@ -2,7 +2,7 @@ export default function Homepage() {
   document.getElementById('app').innerHTML = `
     <header class="relative before:hidden xl:before:block before:top-0 before:left-0 before:w-1/2 before:absolute before:h-full before:bg-black">
       <div class="xl:max-w-[1110px] xl:mx-auto flex flex-col md:flex-row md:items-center xl:items-start">
-        <h1 class="hidden xl:block text-gradient mr-[-10.25rem] relative z-10 text-white uppercase font-headings font-black text-xl leading-xl mt-[11.875rem]">
+        <h1 class="hidden xl:block text-gradient mr-[-10.5rem] relative z-10 text-white uppercase font-headings font-black text-xl leading-xl mt-[11.875rem]">
           <span>Modern</span>
           <span class="block">art gallery</span>
         </h1>
