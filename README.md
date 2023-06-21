@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/art-gallery-website-using-tailwind-css-U7igA5KmfR](https://www.frontendmentor.io/solutions/art-gallery-website-using-tailwind-css-U7igA5KmfR)
 - Live Site URL: [https://art-gallery-page.netlify.app/](https://art-gallery-page.netlify.app/)
 
 ## My process
